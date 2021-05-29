@@ -32,4 +32,4 @@
 ![CHARTJS](https://img.shields.io/badge/ChartJS-FF6384?style=flat-square&logo=chart-dot-js&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-1336 across 47 in the last 3.
+1337 commits across 47 repositories in the last 3 years.
