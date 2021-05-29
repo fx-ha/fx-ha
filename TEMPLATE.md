@@ -1,5 +1,3 @@
-## Skills and Technologies
-
 ![PYTHON](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -34,8 +32,4 @@
 ![CHARTJS](https://img.shields.io/badge/ChartJS-FF6384?style=flat-square&logo=chart-dot-js&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-## Languages used
-
-{{ LANGUAGE_TEMPLATE_START:max=40 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+{{ COMMITS }} across {{ REPOSITORIES }} in the last {{ ACCOUNT_AGE }}.
