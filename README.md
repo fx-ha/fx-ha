@@ -31,4 +31,4 @@
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-quare&logo=unity&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 
-1340 commits across 47 repositories in the last 3 years.
+1344 commits across 47 repositories in the last 3 years.
