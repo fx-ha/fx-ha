@@ -1,5 +1,4 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![NODE](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&)
 ![REACT](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NEXT](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
@@ -20,7 +19,6 @@
 ![DIGITALOCEAN](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![HEROKU](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GIT](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![RASPBERRY](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![BITCOIN](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
