@@ -16,8 +16,6 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-informational?style=flat-square&logo=XAMPP&logoColor=white&color=FB7A24)
-![DIGITALOCEAN](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![HEROKU](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GIT](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![BITCOIN](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white)
@@ -25,4 +23,4 @@
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-quare&logo=unity&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 
-1579 commits across 57 repositories in the last 4 years.
+1581 commits across 58 repositories in the last 4 years.
