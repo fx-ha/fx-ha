@@ -1,5 +1,4 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&)
 ![REACT](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NEXT](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
 ![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white)
@@ -13,4 +12,4 @@
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-quare&logo=unity&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 
-1464 commits across 67 repositories in the last 5 years.
+1466 commits across 67 repositories in the last 5 years.
