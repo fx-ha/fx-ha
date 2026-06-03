@@ -11,5 +11,8 @@
 ![BITCOIN](https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white)
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-quare&logo=unity&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
 
-2126 commits across 74 repositories in the last 8 years.
+2127 commits across 74 repositories in the last 8 years.
