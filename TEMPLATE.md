@@ -1,6 +1,8 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
 ![REACT](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NEXT](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![DJANGOREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
@@ -12,7 +14,5 @@
 ![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-quare&logo=unity&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
 
 {{ COMMITS }} commits across {{ REPOSITORIES }} repositories in the last {{ ACCOUNT_AGE }} years.
