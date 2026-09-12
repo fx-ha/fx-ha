@@ -38,4 +38,4 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
 
-{{ COMMITS }} commits across {{ REPOSITORIES }} repositories in the last {{ ACCOUNT_AGE-2 }} years.
+{{ COMMITS }} commits across {{ REPOSITORIES }} repositories in the last {{ ACCOUNT_AGE }} years.
