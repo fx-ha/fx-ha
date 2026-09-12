@@ -38,4 +38,4 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
 
-2178 commits across 74 repositories in the last 9 years.
+2179 commits across 74 repositories in the last {{ ACCOUNT_AGE-2 }} years.
